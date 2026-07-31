@@ -113,16 +113,7 @@
     "buttonLabel": "후원 문의하기",
     "buttonUrl": "mailto:dps@example.org"
   },
-  "archive": [
-    {
-      "label": "2026 봄학기 뉴스레터",
-      "url": "#"
-    },
-    {
-      "label": "2025 겨울학기 뉴스레터",
-      "url": "#"
-    }
-  ],
+  "archive": [],
   "footer": {
     "address": "DPS Seminary · India",
     "copyright": "© 2026 DPS Seminary. All rights reserved."
