@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "2026년 7월 뉴스레터 | DPS 신학교",
+    "shareDescription": "DPS 신학교의 2026 가을학기 소식과 기도제목을 전합니다."
+  },
+  "brand": {
+    "name": "Delhi Presbyterian Seminary",
+    "koreanName": "델리 장로교 신학교",
+    "tagline": "Training Leaders. Planting Churches.",
+    "logo": "assets/dps-logo.png",
+    "logoAlt": "DPS Seminary logo",
+    "coreLessonsTitle": "DPS의 세 가지 교훈",
+    "coreLessons": [
+      {
+        "order": "첫째",
+        "text": "진리를 배우라"
+      },
+      {
+        "order": "둘째",
+        "text": "제자가 되라"
+      },
+      {
+        "order": "셋째",
+        "text": "토착 교회를 번식하라"
+      }
+    ]
+  },
+  "hero": {
+    "eyebrow": "2026 JULY NEWSLETTER",
+    "title": "복음의 일꾼을 세우는\n새 학기가 시작되었습니다",
+    "summary": "DPS 신학교는 지역 교회를 섬기는 목회자들을 훈련하며, 하나님께서 열어 가시는 새 길을 함께 걸어가고 있습니다.",
+    "image": "",
+    "imageAlt": "DPS 신학교 공동체"
+  },
+  "statistics": [
+    {
+      "value": "137",
+      "label": "재학생"
+    },
+    {
+      "value": "12",
+      "label": "지역 캠퍼스"
+    },
+    {
+      "value": "12",
+      "label": "목사 후보생"
+    },
+    {
+      "value": "39",
+      "label": "장학생"
+    }
+  ],
+  "news": [
+    {
+      "order": 1,
+      "label": "SEMESTER UPDATE",
+      "title": "가을학기 개강",
+      "body": "2026학년도 가을학기가 7월 13일에 개강하였습니다. 이번 새학기에는 신학부(B.Th) 과정에 39명, 신학원(M.Div) 과정에 26명의 신입생이 입학하였으며, 현재 신학부 76명, 신학원 61명, 총 137명이 공부하고 있습니다.",
+      "image": "",
+      "imageAlt": "개강예배 모습",
+      "accent": "blue"
+    },
+    {
+      "order": 3,
+      "label": "MINISTRY EXAM",
+      "title": "목사고시 시행",
+      "body": "7월 18일에는 목사 고시가 있었습니다. 델리와 바라나시 캠퍼스에 소속된 목사후보생 12명 중에 9명이 이번 고시에 응시하였으며 2명이 네 개의 응시 과목에 모두 통과했습니다. 앞으로 우리 졸업생들로 구성되는 노회가 바른 목회자들의 모임으로 설 수 있도록 목사를 세우는 과정을 정확하고 철저하게 시행하고 있습니다. 이번에 통과하지 못한 신학생들은 다음 고시에서 모두 우수한 성적으로 통과할 수 있도록 준비할 것입니다.",
+      "images": [
+        "assets/ministry-exam-01.jpg",
+        "assets/ministry-exam-02.png"
+      ],
+      "imageAlts": [
+        "목사고시 응시생들이 시험에 참여하고 있는 모습",
+        "목사고시가 진행 중인 모습"
+      ],
+      "image": "",
+      "imageAlt": "수업과 훈련 모습",
+      "accent": "gold"
+    },
+    {
+      "order": 2,
+      "label": "SCHOLARSHIP",
+      "title": "봄 학기 장학금 수여, 후원으로 이어지는 배움",
+      "body": "지난 2026년 봄학기에서 모든 코스를 70% 이상의 성적으로 통과한 39명의 재학생들에게 자녀 장학금(Children Scholarship)을 수여하였습니다. DPS의 장학 제도는 사역자 한 사람의 배움을 넘어 그 가정과 교회의 미래를 세우는 일에 큰 힘이 됩니다.",
+      "image": "",
+      "imageAlt": "장학생 이야기",
+      "accent": "terracotta"
+    }
+  ],
+  "testimonial": {
+    "translationLabel": "한글 번역",
+    "originalLabel": "원문 감사 편지",
+    "quote": "저는 저에게 장학금을 지급해준 DPS 측에 진심으로 감사를 전하고 싶습니다. 이 재정적인 지원은 제 아이들의 교육을 위해 사용되고 제 가족에게 큰 축복이 되었습니다. 당신의 관대함과 친절함에 감사합니다. 하나님이 당신들 각자를 넘치도록 축복하시길 바랍니다.",
+    "name": "하리쉬 짠더",
+    "role": "까르날 캠퍼스",
+    "originalText": "I, Harish Chander, would like to express my heartfelt gratitude and sincere thanks to DPS for awarding me a scholarship of ₹18,000. This financial support has been used for my children's education and has been a great blessing to my family. I truly appreciate your generosity and kindness. May God richly bless each one of you for your support and compassion. Thank you once again for your valuable help. Yours sincerely, Harish Chander, Karnal campus."
+  },
+  "prayerRequests": [
+    "가을 학기가 하나님의 은혜와 돌보심 아래 잘 진행될 수 있도록",
+    "교수진들이 교수 사역을 통해 학생들에게 풍성한 영적, 지적 양식을 제공하도록",
+    "신입생들의 적응과 DPS를 통해 하나님의 일에 합당한 사역자로 거듭날 수 있도록",
+    "목사고시 응시생들이 더욱 기도하며 준비하여 모두가 합격할 수 있도록",
+    "10월에 있을 목사 안수식이 성령의 기름 부으심을 받는 특별한 시간으로 준비될 수 있도록"
+  ],
+  "support": {
+    "title": "DPS를 함께 세워 주세요",
+    "body": "기도와 후원은 복음의 일꾼을 세우는 사역에 직접 참여하는 소중한 동역입니다.",
+    "accountLabel": "후원 계좌",
+    "accounts": [
+      "하나은행 / 022-04-00057-598 예장합신(DPS대학) - 연말 정산이 필요하신 경우",
+      "씨티은행 / 141-09596-264-01 천엽 (DPS 전용 계좌) - 연말 정산이 필요하지 않은 경우"
+    ],
+    "buttonLabel": "후원 문의하기",
+    "buttonUrl": "mailto:dps@example.org"
+  },
+  "archive": [
+    {
+      "label": "2026 봄학기 뉴스레터",
+      "url": "#"
+    },
+    {
+      "label": "2025 겨울학기 뉴스레터",
+      "url": "#"
+    }
+  ],
+  "footer": {
+    "address": "DPS Seminary · India",
+    "copyright": "© 2026 DPS Seminary. All rights reserved."
+  }
+}
