@@ -111,7 +111,7 @@
   "archive": [
     {
       "label": "2026년 7월 뉴스레터",
-      "url": "archive/2026-07/index.html"
+      "url": "../2026-07/index.html"    
     }
   ],
   "footer": {
