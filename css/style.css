@@ -6,24 +6,18 @@
 .prayer{margin-top:70px}.prayer-list{display:grid;grid-template-columns:repeat(2,1fr);gap:13px;padding:0;list-style:none}.prayer-list li{padding:19px 20px 19px 52px;position:relative;border:1px solid var(--line);background:#fff}.prayer-list li:before{content:"*";position:absolute;left:21px;color:var(--gold);font-weight:bold}.support{display:grid;grid-template-columns:1.25fr .75fr;gap:40px;align-items:center;margin-top:70px;padding:clamp(32px,6vw,64px);background:#eee5d7}.support h2{margin:0 0 14px;font-size:clamp(1.55rem,3vw,2.2rem);letter-spacing:-.04em}.support p{color:#536572}.details{padding:23px;background:rgba(255,255,255,.72)}.details dt{color:var(--muted);font-size:.78rem}.details dd{margin:8px 0 0;font-weight:700}.archive{padding-top:70px}.archive-list{display:flex;flex-wrap:wrap;gap:10px}.archive-list a{padding:10px 13px;border:1px solid var(--line);color:var(--muted);text-decoration:none;font-size:.86rem}footer{padding:36px 20px;color:#b9c9d4;background:#102e4c;text-align:center;font-size:.79rem}footer p{margin:3px}
 @media(max-width:720px){.hero{min-height:610px;align-items:center;padding-top:140px;padding-bottom:175px}.brand-logo{width:58px;height:58px}.hero-edition{top:42px;right:20px;max-width:45%;font-size:.75rem;letter-spacing:.07em}.hero h1{font-size:2rem}.core-lessons{right:20px;bottom:24px;left:20px;width:auto;padding:16px 18px}.core-lessons ol{font-size:.87rem}.student-grid,.feature,.support{grid-template-columns:1fr}.student-card{grid-template-columns:110px 1fr;gap:16px}.student-photo{width:110px;height:150px}.prayer-list{grid-template-columns:1fr}.support{gap:18px}.content{padding-top:55px}}
 
-/* August 2026 refinements */
-.regional-block p,.campus>p,.supporter>blockquote,.student-card blockquote{text-align:justify;text-justify:inter-word}
-.supporter{margin-top:70px;padding:clamp(30px,5vw,54px);background:#fff;border:1px solid var(--line)}
-.supporter-intro{margin:0 0 22px;color:#536572;font-weight:600}
-.supporter blockquote{margin:0;padding:24px 26px;border-left:4px solid var(--gold);background:#f7f2ea;font-family:Georgia,"Noto Serif KR",serif;font-size:1rem;line-height:1.85}
-.supporter blockquote p{margin:0 0 1.1em}
-.supporter blockquote p:last-child{margin-bottom:0}
+/* Reusable article sections */
+.article-section{margin-top:72px}.article-section:first-child{margin-top:0}.article-block{margin-top:30px}.article-subheading{margin:0 0 14px;font-size:1.23rem;letter-spacing:-.035em}.article-block p,.student-card blockquote p{margin:0 0 16px;text-align:justify;text-justify:inter-word}.article-block p:last-of-type{margin-bottom:0}.image-gallery{display:grid;gap:16px;margin-top:22px}.image-gallery.gallery-2{grid-template-columns:repeat(2,minmax(0,1fr))}.image-gallery figure{margin:0}.article-image{display:block;width:100%;max-height:580px;object-fit:cover}.image-gallery.gallery-2 .article-image{height:auto}.image-gallery figcaption{margin-top:8px;color:var(--muted);font-size:.84rem;text-align:center}.student-card blockquote p{font-family:Georgia,"Noto Serif KR",serif}.student-card blockquote p:last-child{margin-bottom:0}.student-card cite{margin-top:16px}.support p,.details dd,.prayer-list li{text-align:justify}
+
+/* Long testimonials read more comfortably as a full-width column below the portrait. */
+.student-grid{grid-template-columns:1fr}.student-card{display:block}.student-photo{display:block;margin:0 auto 20px;width:145px;height:190px}.student-card h3{margin-bottom:14px}.student-card blockquote{margin:0}.article-block p,.student-card blockquote p,.support p,.details dd,.prayer-list li{letter-spacing:normal;word-spacing:normal;text-align-last:left}
+
 @media(max-width:720px){
-  /* Match the July issue's mobile masthead: logo/name stacked, edition at upper right. */
-  .brand{top:28px;left:20px;flex-direction:column;align-items:flex-start;gap:14px;font-size:1.5rem;line-height:1.2}
-  .brand-logo{width:58px;height:58px}
-  .hero-edition{top:42px;right:20px;max-width:52%;font-size:.75rem;line-height:1.35;letter-spacing:.07em}
-  .hero-copy{width:100%}
-  .student-card{display:block;overflow:hidden}
-  .student-photo{float:left;width:40%;height:180px;max-height:none;aspect-ratio:auto;object-fit:cover;margin:0 16px 10px 0}
-  .student-card h3{margin-bottom:10px}
-  .student-card blockquote{text-align:justify;line-height:1.72}
-  .student-card cite{clear:none}
-  .supporter{margin-top:58px;padding:24px 20px}
-  .supporter blockquote{padding:18px 18px;font-size:.95rem;line-height:1.8}
+  .hero{min-height:650px;padding-top:185px;padding-bottom:180px;align-items:center}
+  .brand{top:22px;left:20px;right:20px;font-size:.96rem}
+  .hero-edition{top:100px;right:20px;left:20px;max-width:none;text-align:left;font-size:.78rem;letter-spacing:.09em}
+  .image-gallery.gallery-2{grid-template-columns:1fr}
+  .image-gallery.gallery-2 .article-image{height:auto;max-height:none}
+  .student-card{display:block}
+  .student-photo{width:132px;height:172px;margin:0 auto 18px}
 }
