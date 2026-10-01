@@ -33,6 +33,8 @@
   ],
   "prayerRequests": ["10월 13~28일까지 총 8개 지역을 순회하며 비전 캐스팅(신입생 모집)이 진행될 예정입니다. 배움이 필요한 각 지역의 목회자들에게 기쁜 소식으로 전달되는 행사가 되도록", "비전 캐스팅이 보안 문제 없이 진행되고 마무리되도록, 특별히 기독교 탄압이 심각한 우타르 프라데시 지역(럭나우, 깐푸르)에서의 안전을 위해", "10월 27일에 있을 첫 목사안수식을 축복해주시길", "목사안수식을 위해 방문하는 한국의 경향교회 담임목사님과 선교회 담당 교역자들의 여정을 위해"],
   "support": { "title": "DPS를 함께 세워주세요.", "body": "기도와 후원은 복음의 일꾼을 세우는 사역에 직접 참여하는 소중한 동역입니다.", "accountLabel": "후원계좌", "accounts": ["하나은행 / 022-04-00057-598 예장합신(DPS대학)  - 연말 정산이 필요하신 경우", "씨티은행 / 141-09596-264-01 천엽 (DPS 전용 계좌) -  연말 정산이 필요하지 않은 경우"] },
-  "archive": { "label": "2026년 8월 뉴스레터", "url": "archive/2026-08/index.html" },
+ "archive": [
+  { "label": "2026년 8월 뉴스레터", "url": "archive/2026-08/index.html" }
+],
   "footer": { "address": "Delhi Presbyterian Seminary · DPS India", "copyright": "© 2026 Delhi Presbyterian Seminary. All rights reserved." }
 }
