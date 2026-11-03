@@ -23,3 +23,13 @@
   .student-photo{width:132px;height:172px;margin:0 auto 18px}
   .album-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
 }
+
+.mobile-only {
+  display: none;
+}
+
+@media (max-width: 720px) {
+  .mobile-only {
+    display: inline;
+  }
+}
